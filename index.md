@@ -1,37 +1,69 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/lakishal/TKH_Prework/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+//assignment_1.js
+var greeting = ("Hello World");
+console.log (greeting);
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+//assignment_2.js
+name = prompt ("What is your name?");
+console.log("My name is" + name);
+ 
+//assignment_3.js
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+console.log (7 * 7);
+var example = 7;
+if (example * 7){
+  print "over"
+  };
+else {
+  print "under"
+};
 
-```markdown
-Syntax highlighted code block
+//assignment_4.js
+var nub = [25];
 
-# Header 1
-## Header 2
-### Header 3
+           over_under_array = [1,45,32,21,5,17,43,93];
+           console.log (numbers.length);
+for(var i=0; i<nums.length; i++){
+  console.log(i);
+};
 
-- Bulleted
-- List
+//assignment_5.js
 
-1. Numbered
-2. List
+var array = [1,45,32,21,5,17,43,93] * 7;
+var sum = 0;
+for(var i=0; i<a.length; i++) {
+    a[i] *= 7;
+}
 
-**Bold** and _Italic_ and `Code` text
+//assignment_6.js
+var longest_name;
+var array = [ Retta, Vern, Marica, Cyrus, Linette, Curt, Nichole, Jesica, Wynell, Michaele ];
+var answer;
+console.log(answer);
 
-[Link](url) and ![Image](src)
-```
+//assignment_7.js
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+var names_array = ["bob","jimmy","max b", "bernie", "jordan", "future hendrix"];
+names_array[1];
+names_array[2];
+array = ["b","c"];
+array[2];
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lakishal/TKH_Prework/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
